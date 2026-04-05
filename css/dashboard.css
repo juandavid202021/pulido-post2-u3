@@ -159,6 +159,7 @@ background: var(--bg); }
 .badge--active { background: #E8F5E9; color: #2E7D32; }
 .badge--review { background: #FFF8E1; color: #F57F17; }
 .badge--done { background: #FFEBEE; color: #C62828; }
+/* ajuste final dashboard */
 /* Lista de actividad */
 .activity-list { list-style: none; display: flex; flex-direction: column;
 gap: 0; }
@@ -170,4 +171,4 @@ gap: 0; }
 }
 .activity-item:last-child { border-bottom: none; }
 .activity-item::before { content: "› "; color: var(--secondary); fontweight: 700; }
-/* cambio para commit */
+
