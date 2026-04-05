@@ -170,3 +170,4 @@ gap: 0; }
 }
 .activity-item:last-child { border-bottom: none; }
 .activity-item::before { content: "› "; color: var(--secondary); fontweight: 700; }
+/* cambio para commit */
