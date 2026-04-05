@@ -40,9 +40,9 @@ El dashboard incluye:
 
 ## 🖼️ Capturas de pantalla
 
-### 💻 Vista en escritorio (1280px)
+### 💻 Vista en escritorio 
 ![Vista escritorio](img/escritorio.png)
 
-### 📱 Vista en móvil (768px)
+### 📱 Vista en móvil 
 ![Vista móvil](img/movil1.png)
 ![Vista móvil](img/movil2.png)
